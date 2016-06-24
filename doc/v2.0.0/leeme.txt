@@ -1,0 +1,24 @@
+Proyecto Hontza 2.0 - Generación de una plataforma abierta para la Inteligencia Competitiva
+-------------------------------------------------------------------------------------------
+
+Cliente: AVEQ - Asociacion Vizcaína de Empresas Químicas
+http://www.aveq-kimika.es/aAKW/web/es/index.jsp
+Dirección del Proyecto: CDE - Centro de Vigilancia Normas y Patentes
+http://www.cde.es/
+Desarrollador: Investic
+http://www.investic.net/
+Financiado por: SPRI - Sociedad para la Transformación Competitiva
+http://www.spri.es/aNS/web/portada.jsp
+
+El empaquetado de Hontza 2.0 es un fichero comprimido compuesto por:
+
+a) El programa en codigo abierto instalable investic-hontzados.zip
+
+b) Los documentos siguientes:
+1- Manual-hontza_v1.odt y pdf: Es el manual de Hontza, tanto para el usuario como para el administrador. Este manual está en modo pregunta-respuesta para que se integre directamente en la ayuda dentro de la aplicación.
+
+2- INSTALL_HONTZA.txt: Es una traducción del install.txt de Drupal que explica como se instala un Drupal. Dado que Hontza 2.0 es una distribución de Drupal, este manual es igualmente valido para Hontza 2.0
+
+3- README_hontza.mdwon: Es un fichero de texto plano enriquecido que hace las función de manual de desarrollador y contextualiza la distribución de Drupal. Este documento indica los módulos que se han desarrollado, los que se han utilizado etc
+
+Bilbao, Oiartzun, Pamplona, año 2010
